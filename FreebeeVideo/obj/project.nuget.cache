@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "8GdxMakjrvk=",
+  "success": true,
+  "projectFilePath": "/home/runner/work/VideoEditing/VideoEditing/FreebeeVideo/FreebeeVideo.csproj",
+  "expectedPackageFiles": [
+    "/tmp/codeql-scratch-97fcf916eeb878ff/dbs/csharp/working/packages/communitytoolkit.mvvm/8.4.0/communitytoolkit.mvvm.8.4.0.nupkg.sha512",
+    "/tmp/codeql-scratch-97fcf916eeb878ff/dbs/csharp/working/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/tmp/codeql-scratch-97fcf916eeb878ff/dbs/csharp/working/packages/xabe.ffmpeg/5.2.6/xabe.ffmpeg.5.2.6.nupkg.sha512",
+    "/tmp/codeql-scratch-97fcf916eeb878ff/dbs/csharp/working/packages/microsoft.netcore.app.ref/10.0.5/microsoft.netcore.app.ref.10.0.5.nupkg.sha512",
+    "/tmp/codeql-scratch-97fcf916eeb878ff/dbs/csharp/working/packages/microsoft.windowsdesktop.app.ref/10.0.5/microsoft.windowsdesktop.app.ref.10.0.5.nupkg.sha512",
+    "/tmp/codeql-scratch-97fcf916eeb878ff/dbs/csharp/working/packages/microsoft.aspnetcore.app.ref/10.0.5/microsoft.aspnetcore.app.ref.10.0.5.nupkg.sha512",
+    "/tmp/codeql-scratch-97fcf916eeb878ff/dbs/csharp/working/packages/microsoft.netcore.app.host.linux-x64/10.0.5/microsoft.netcore.app.host.linux-x64.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
